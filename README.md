@@ -1,1 +1,3 @@
-# drawing-library
+# A roblox drawing-library.
+
+Visuals for ROBLOX.
